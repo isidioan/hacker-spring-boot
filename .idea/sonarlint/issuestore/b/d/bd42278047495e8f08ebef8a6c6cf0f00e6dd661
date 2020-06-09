@@ -1,0 +1,162 @@
+
+Z
+java:S2095{"DUse try-with-resources or close this "Stream" in a "finally" clause.(µ›Ž
+J
+java:S3740>"/Provide the parametrized type for this generic.(å¬¹Ëúÿÿÿÿ
+F
+java:S3740à"/Provide the parametrized type for this generic.(¸Ô‹–
+F
+java:S3740à"/Provide the parametrized type for this generic.(¸Ô‹–
+F
+java:S3740à"/Provide the parametrized type for this generic.(¸Ô‹–
+F
+java:S3740ë"/Provide the parametrized type for this generic.(¸Ô‹–
+F
+java:S3740ë"/Provide the parametrized type for this generic.(¸Ô‹–
+F
+java:S3740ë"/Provide the parametrized type for this generic.(¸Ô‹–
+F
+java:S3740ö"/Provide the parametrized type for this generic.(¸Ô‹–
+F
+java:S3740ö"/Provide the parametrized type for this generic.(¸Ô‹–
+F
+java:S3740ö"/Provide the parametrized type for this generic.(¸Ô‹–
+K
+java:S3740ˆ"/Provide the parametrized type for this generic.(ýª“ÿþÿÿÿÿ
+K
+java:S3740ˆ"/Provide the parametrized type for this generic.(ýª“ÿþÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(ÒºÖÚÿÿÿÿÿ
+K
+java:S3740”"/Provide the parametrized type for this generic.(‡ ÄÉÿÿÿÿÿ
+K
+java:S3740”"/Provide the parametrized type for this generic.(‡ ÄÉÿÿÿÿÿ
+K
+java:S3740”"/Provide the parametrized type for this generic.(‡ ÄÉÿÿÿÿÿ
+K
+java:S3740ž"/Provide the parametrized type for this generic.(„§¬’ýÿÿÿÿ
+K
+java:S3740ž"/Provide the parametrized type for this generic.(„§¬’ýÿÿÿÿ
+K
+java:S3740ž"/Provide the parametrized type for this generic.(„§¬’ýÿÿÿÿ
+m
+java:S1192Ö"QDefine a constant instead of duplicating this literal "application/json" 3 times.(ë‡¨¤ûÿÿÿÿ
+b
+java:S1192Ø"KDefine a constant instead of duplicating this literal "text/plain" 3 times.(ÖäÒœ
+i
+java:S1192Ô"MDefine a constant instead of duplicating this literal "Content-Type" 3 times.(Ø‰¬§üÿÿÿÿ
+d
+java:S1192Ô"HDefine a constant instead of duplicating this literal "headers" 3 times.(Ø‰¬§üÿÿÿÿ
+I
+java:S1199Ò"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199ò"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112°"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112ë"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112‹"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112ž"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112Ò"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+a	java:S112ª"FDefine and throw a dedicated exception instead of using a generic one.(¬€‹þÿÿÿÿ
+\	java:S112õ"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112©"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112²"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112Ò"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112Ü"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112²"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+\	java:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(ÆŠíà
+Q
+java:S1141Ý"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ý"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141’"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141£"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+H
+java:S1612Ž",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+C
+java:S1612ª",Replace this lambda with a method reference.(¼ËÊº
+H
+java:S1612­",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612è",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612ˆ",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612›",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612Ã",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612Ï",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612ò",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612þ",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612¦",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612¯",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612Ï",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612Ù",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612Ž",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612–",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612¯",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+H
+java:S1612¹",Replace this lambda with a method reference.(ÅÅÜæûÿÿÿÿ
+
+java:S1450>"rRemove the "mappingJackson2HttpMessageConverter" field and declare it as a local variable in the relevant methods.(å¬¹Ëúÿÿÿÿ
+L
+java:S2696L"6Make the enclosing method "static" or remove this set.(òê¡ò
+C
+java:S1185_"(Remove this method to simply inherit it.(÷Ä‹êúÿÿÿÿ
+>
+java:S1185d"(Remove this method to simply inherit it.(°Ý´ù
+>
+java:S1185s"(Remove this method to simply inherit it.(®¥‡Ÿ
+n
+java:S3776y"SRefactor this method to reduce its Cognitive Complexity from 149 to the 15 allowed.(ÆÈüšüÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(Ïî“þÿÿÿÿ
+O	java:S106ç"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+O	java:S106š"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+O	java:S106Â"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+O	java:S106Î"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+n
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÙšÞüÿÿÿÿ
+O	java:S106ñ"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+O	java:S106ý"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+O	java:S106®"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+m
+java:S3457·"Q%n should be used in place of \n to produce the platform-specific line separator.(È»Ç¼úÿÿÿÿ
+h
+java:S3457Â"Q%n should be used in place of \n to produce the platform-specific line separator.(·°
+O	java:S106Î"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+O	java:S106Ø"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+O	java:S106"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+O	java:S106•"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+m
+java:S3457ž"Q%n should be used in place of \n to produce the platform-specific line separator.(È»Ç¼úÿÿÿÿ
+O	java:S106®"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+O	java:S106¸"9Replace this use of System.out or System.err by a logger.(‘‰Š³
+G
+java:S1481ä"0Remove this unused "ANSI_REPORT" local variable.(”Åò›
+H
+java:S1481æ"1Remove this unused "ANSI_SUCCESS" local variable.(ÐÛý›
+Z
+java:S3398°">Move this method into the anonymous class declared at line 93.(ÙšÞüÿÿÿÿ
+U
+java:S3398à">Move this method into the anonymous class declared at line 93.(«‘âç
